@@ -1,0 +1,1 @@
+This is the simple personal portfolio website. It's designed by HTML and CSS basic Elements.
