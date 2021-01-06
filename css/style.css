@@ -65,6 +65,7 @@ h1 span{
 }
 .about-section{
     height: 500px;
+    padding-bottom: 10%;
 }
 .about-image{
     float: left;
@@ -99,3 +100,52 @@ h1 span{
     font-weight: 700;
 }
 .about-text a{}
+.project-section{
+    width: 100%;
+    background-color: darkgray;
+}
+.project-section h2{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 48px;
+}
+
+.project-section h2 span{
+    color: darkblue;
+}
+.project{
+    width: 26.33%;
+    float: left;
+    box-shadow: 5px 5px 15px #46194c;
+    height: auto;
+    background: white;
+    border-radius: 20px;
+    margin: 2%;
+    padding: 1%;
+}
+.project-img{
+    width: 100%;
+}
+.project-img img{
+    width: 100%;
+}
+.project h3{}
+.project p{}
+.project-work{
+    width: 80%;
+    height: 500px;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.inquary{
+    background-image: url("../images/chatBG.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+.inquary-text{}
+.inquary-text h2{}
+.inquary-chat{}
+
+.inquary-chat a{}
+
+.inquary-button{}
