@@ -23,7 +23,9 @@ section{
     color: #3C3C3C;
     font-size: 16px;
 } 
-.welcome-section{}
+.welcome-section{
+    height: 500px;
+}
 .welcome-text{
     width: 40%;
     float: left;
@@ -33,6 +35,8 @@ section{
 .welcome-text h1{
     font-size: 80px;
     line-height: 10px;
+}
+.welcome-text a{
 }
 h1 span{
     color: #F68667;
@@ -44,6 +48,7 @@ h1 span{
     padding: 10px 40px;
     border-radius: 5px;
     color: lightgray;
+    line-height: 60px;
     font-size: 20px;
 }
 .welcome-image{
@@ -55,3 +60,42 @@ h1 span{
 .welcome-image img{
     width: 100%;
 } 
+.welcome-text p{
+    margin-bottom: 8%;
+}
+.about-section{
+    height: 500px;
+}
+.about-image{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.about-image img{
+    width: 100%;
+}
+.about-text{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 5%;
+}
+.about-text h2{
+    font-size: 48px;
+    color: #9550df;
+}
+.about-text p{
+    margin-bottom: 8%;
+}
+.about-button{
+    text-decoration: none;
+    color: aqua;
+    background-image: linear-gradient(45deg, tomato, #f05896);
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.about-text a{}
