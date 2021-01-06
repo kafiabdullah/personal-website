@@ -30,6 +30,7 @@ section{
 }
 .welcome-text h1{
     font-size: 80px;
+    line-height: 10px;
 }
 h1 span{
     color: #F68667;
