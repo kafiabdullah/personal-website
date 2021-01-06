@@ -186,6 +186,7 @@ h1 span{
 footer{
     height: 250px;
     align-items: center;
+    width: 100%;
 }
 .footer-text{
     text-align: center;
@@ -216,3 +217,34 @@ footer{
     text-decoration: none;
     margin-left: 5%;
 }
+.experience-section{
+    width: 100%;
+    /* margin-bottom: 5%; */
+    height: 750px;
+}
+.experience-section h2{
+    text-align: center;
+    font-size: 35px;
+    color: green;
+    font-weight: 700;
+}
+.experience-box{
+    width: 100%;
+}
+.exterience-text{
+    float: left;
+    width: 40%;
+    height: 300px;
+    border: 5px solid #5bd483;
+    margin-left: 5%;
+    padding-left: 3%;
+    margin-bottom: 5%;
+    background: #276386;
+    background-image: linear-gradient(45deg, #87939a, #27638647);
+    color: white;
+}
+.exterience-text img{padding: 3% 0%;}
+.exterience-text h3{
+    color: #f3e50f;
+}
+.exterience-text p{}
