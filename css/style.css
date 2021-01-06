@@ -161,14 +161,14 @@ h1 span{
 .inquary-chat{
     float: right;
     height: 105px;
-    margin-top: 6%;
+    margin-top: 7%;
     margin-right: 5%;
 }
 
 .inquary-chat a{
     color: black;
     text-decoration: none;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .inquary-button{
@@ -179,12 +179,11 @@ h1 span{
 .inquary-section{
     padding: 0px 0px 0 0;
     width: 60%;
-    margin-left: 20%;
+    margin-left: 18%;
     margin-bottom: 5%;
     margin-top: 5%;
 }
 footer{
-    height: 250px;
     align-items: center;
     width: 100%;
 }
