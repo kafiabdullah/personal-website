@@ -21,3 +21,34 @@ section{
     color: #3C3C3C;
     font-size: 16px;
 } 
+.welcome-section{}
+.welcome-text{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.welcome-text h1{
+    font-size: 80px;
+}
+h1 span{
+    color: #F68667;
+}
+.welcome-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, green, orange);
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: lightgray;
+    font-size: 20px;
+}
+.welcome-image{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.welcome-image img{
+    width: 100%;
+} 
