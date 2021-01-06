@@ -43,7 +43,7 @@ h1 span{
 }
 .welcome-button{
     text-decoration: none;
-    background: linear-gradient(45deg, green, orange);
+    background: linear-gradient(45deg, #5bd483, #0f98e8);
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
@@ -182,4 +182,37 @@ h1 span{
     margin-left: 20%;
     margin-bottom: 5%;
     margin-top: 5%;
+}
+footer{
+    height: 250px;
+    align-items: center;
+}
+.footer-text{
+    text-align: center;
+}
+.footer-text p{
+    font-size: 25px;
+    color: #2f1c31;
+}
+.footer-text h2{
+    font-size: 30px;
+}
+.footer-icon{
+}
+.footer-icon ul{
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+.footer-icon ul li{
+    list-style: none;
+    text-align: center;
+}
+.footer-icon ul li a img{
+    width: 5%;
+}
+
+.footer-icon ul li a{
+    text-decoration: none;
+    margin-left: 5%;
 }
